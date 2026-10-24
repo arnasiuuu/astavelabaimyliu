@@ -1,0 +1,11 @@
+# Slip Angle
+
+**Philosophy:** A surface remembers every commitment made across it. The algorithm does not draw pictures; it releases travellers into a field of invisible pivots and lets the ground keep score.
+
+**The field.** Space is organised around a handful of hidden pivot points, each with its own preferred orbit. Near a pivot, motion bends into tight, held circles; between pivots, a slow prevailing current carries everything onward. Low-frequency noise unsettles the whole system so no orbit is ever closed twice in the same place. The field is a meticulously crafted balance of attraction and drift, tuned through painstaking iteration until loops, transitions and long straights all coexist on one surface.
+
+**The travellers.** Each particle has momentum and cannot turn instantly: its heading eases toward what the field asks, the way a heavy body negotiates with a slippery surface. Every traveller leaves not one trace but a strict pair of parallel traces, a fixed distance apart, perpendicular to its heading. Where the pair sweeps through a turn the two lines fan and cross their predecessors, and density accumulates into dark, polished bands. This doubling is the quiet signature of the system — master-level restraint that reads as structure, not decoration.
+
+**Pressure and opacity.** Marks are not uniform. A trace is faint when its traveller runs straight and grows heavier as the rate of turning rises, so the image records effort rather than mere presence. Thousands of near-transparent strokes overlap until the field's history becomes a tonal map: pale where nothing happened, saturated where everything did. The accumulation must feel like the product of deep computational expertise, every alpha value weighed.
+
+**Seeded variation.** The seed fixes where the pivots sit, how wide their orbits run and how the noise breathes. Each seed is a different afternoon on the same ground: recognisably the same discipline, never the same composition. Parameters stay few — how many travellers, how far they run, how strongly pivots hold them, how far apart the paired traces sit — so that every variation remains a considered, meticulously tuned instance rather than a random sample.

@@ -2,3 +2,4 @@
 .vscode/
 *.log
 __pycache__/
+posters/lik-drift-collage/build/*.html
