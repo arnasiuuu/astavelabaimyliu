@@ -83,7 +83,7 @@ def main(photo_dir, out):
     # header
     y_head = M + 26
     tracked(d, (M, y_head), "LIK DRIFT — LAUKO ARCHYVAS", mono, BONE, 6)
-    tracked(d, (W - M, y_head), "Nº 01  /  F.01–F.06", mono, GRAPHITE, 6, anchor="rs")
+    tracked(d, (W - M, y_head), "Nº 01  /  05", mono, GRAPHITE, 6, anchor="rs")
     d.rectangle([M, M + 62, W - M, M + 62 + hair - 1], fill=GRAPHITE)
 
     # hero frame
