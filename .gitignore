@@ -3,3 +3,4 @@
 *.log
 __pycache__/
 posters/lik-drift-collage/build/*.html
+posters/lik-drift-showcase/build/
